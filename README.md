@@ -2,10 +2,10 @@
 
 # My Profile
 
-- **Name:** [Your Name]
-- **Age:** [Your Age]
-- **Favorite Color:** [Your Favorite Color]
-- **Favorite Language:** [Your Favorite Language]
+- **Name:** [Hassan Barghouth]
+- **Age:** [29]
+- **Favorite Color:** [Blue]
+- **Favorite Language:** [Arabic]
 - **Favorite Restaurants:**
   1. Restaurant 1
   2. Restaurant 2
